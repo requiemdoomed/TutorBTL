@@ -17,7 +17,7 @@ HTML and CSS.
 
 ## Run
 
-Download the project and open `TutorBTL(1).html` in your browser.
+Download the project and open `TutorBTL.html` in your browser.
 No installation required.
 
 ## Note
