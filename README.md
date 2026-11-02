@@ -15,16 +15,6 @@ with Swayam Shakya.
 
 HTML and CSS.
 
-## Run
-
-Download the project and open `TutorBTL.html` in your browser.
-No installation required.
-
-## Note
-
-This is an informational website. Booking and payments
-are not included.
-
 ## Contact
 
 Email: swayamshakya000@gmail.com
